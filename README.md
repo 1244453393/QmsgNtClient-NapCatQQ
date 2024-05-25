@@ -10,10 +10,10 @@ https://qmsg.zendee.cn/docs/pvt
 https://qmsg.zendee.cn
 ## 我的万年不更新博客
 https://www.zendee.cn
-## 设置界面
+## WEB设置界面
 此图并非最新版界面，请以安装后的界面为准
 
-<img src="./doc/image/setting.png" width="500px" alt="设置界面"/>
+<img src="./docs/image/setting.png" width="500px" alt="设置界面"/>
 
 ## Qmsg酱形象
 <img src="https://qmsg.zendee.cn/img/icon.png">
