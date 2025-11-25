@@ -2,7 +2,7 @@
   "name": "qmsgnt-napcat",
   "private": true,
   "type": "module",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "scripts": {
     "build:framework": "vite build --mode framework",
     "build:shell": "vite build --mode shell",
@@ -67,5 +67,6 @@
     "ws": "^8.18.0"
   }
 }
+
 
 
